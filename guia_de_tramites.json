@@ -1,1 +1,161 @@
-﻿{"processes":[{"id":"rut","name":"RUT","description":"El Registro Unico Tributario ...","isOnline":true,"url":"www.rut.com/expedir","cost":0,"additionalInformation":"Tenga en cuenta...","legislationURL":"www.rut.com/normatividad.pdf","entity":"DIAN","service_points":["supercade_cad","supercade_movilidad","dian_lago"]},{"id":"rit","name":"RIT","description":"El Registro de Identificacion Tributaria ...","isOnline":false,"cost":0,"additionalInformation":"Tenga en cuenta...","legislationURL":"www.rit.com/normatividad.pdf","entity":"hacienda","service_points":["supercade_cad","supercade_movilidad","direccion_impuestos"]},{"id":"traspaso","name":"traspaso vehiculo","descripcion":"El traspaso de vehiculo...","isOnline":false,"cost":106900,"additionalInformation":"Tenga en cuenta...","legislationURL":"www.movilidad.com/normatividad.pdf","entity":"movilidad","service_points":["supercade_movilidad","sim_siete_de_agosto"]},{"id":"registro_civil","name":"Copia de Registro Civil","descripcion":"La copia del registro civil...","isOnline":false,"cost":"1 SMLV","additionalInformation":"Tenga en cuenta...","legislationURL":"www.registraduria.com/normatividad.pdf","entity":"registraduria","service_points":["registraduria_chapinero"]}],"entities":[{"id":"dian","long_name":"Dirección de Impuestos y Aduanas Nacionales","short_name":"DIAN","initial":"DIAN","phone":"123456","homepage":"www.dian.gov.co","processes":["rut"],"servicePoints":["supercade_cad","supercade_movilidad","dian_lago"]},{"id":"hacienda","long_name":"Secretaría de Hacienda Distrital","short_name":"Hacienda","phone":"123456","homepage":"www.hacienda.gov.co","processes":["rit"],"servicePoints":["supercade_cad","supercade_movilidad","direccion_impuestos"]},{"id":"movilidad","name":"","long_name":"Secretaría de Movilidad","short_name":"movilidad","phone":"123456","homepage":"www.movilidad.gov.co","processes":["traspaso"],"servicePoints":["supercade_movilidad","sim_siete_de_agosto"]},{"id":"registraduria","long_name":"Registraduría Nacional del Estado Civil","short_name":"Registraduria Nacional","phone":"123456","homepage":"www.registraduria.gov.co","processes":["registro_civil"],"servicePoints":["registraduria_chapinero"]}],"servicePoints":[{"id":"supercade_cad","name":"SuperCADE CAD","address":"Calle 26 con Cra 30","phone":"123456","schedule":"L-V 8:00 AM a 5:00 PM","localization":{"latitude":1,"longitude":1},"email":"mail@supercade.gov.co","homepage":"www.supercade.com","processes":["rut","rit"]},{"id":"supercade_movilidad","name":"SuperCADE Movilidad","address":"Calle 13 con Cra 38","phone":"123456","schedule":"L-V 8:00 AM a 5:00 PM","localization":{"latitude":1,"longitude":1},"email":"mail@supercade.gov.co","homepage":"www.supercade.com","processes":["rut","rit","traspaso"]},{"id":"sim_siete_de_agosto","name":"SIM Siete de Agosto","address":"Calle 65 con Cra 23","phone":"123456","schedule":"L-V 8:00 AM a 5:00 PM","localization":{"latitude":1,"longitude":1},"email":"mail@sim.gov.co","homepage":"www.sim.com","processes":["traspaso"]},{"id":"dian_lago","name":"DIAN Oficina El Lago","address":"Calle 74 con Cra 15","phone":"123456","schedule":"L-V 8:00 AM a 5:00 PM","localization":{"latitude":1,"longitude":1},"email":"mail@dian.gov.co","homepage":"www.dian.com","processes":["rut"]},{"id":"direccion_impuestos","name":"SEDE Direccion Distrital de Impuestos de Bogota","address":"Carrera 68 con calle 17","phone":"123456","schedule":"L-V 8:00 AM a 5:00 PM","localization":{"latitude":1,"longitude":1},"email":"mail@hacienda.gov.co","homepage":"www.hacienda.com","processes":["rit"]},{"id":"registraduria_chapinero","name":"Registraduria Auxiliar de Chapinero","address":"Carrera 7 con calle 45","phone":"123456","schedule":"L-V 8:00 AM a 5:00 PM","localization":{"latitude":1,"longitude":1},"email":"mail@registraduria.gov.co","homepage":"www.registraduria.com","processes":["registro_civil"]}]}
+﻿{
+	"processes" : [{
+			"id" : "rut",
+			"name" : "RUT",
+			"description" : "El Registro Unico Tributario ...",
+			"isOnline" : true,
+			"url" : "www.rut.com/expedir",
+			"cost" : 0,
+			"additionalInformation" : "Tenga en cuenta...",
+			"legislationURL" : "www.rut.com/normatividad.pdf",
+			"entity" : "DIAN",
+			"service_points" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+		}, {
+			"id" : "rit",
+			"name" : "RIT",
+			"description" : "El Registro de Identificacion Tributaria ...",
+			"isOnline" : false,
+			"cost" : 0,
+			"additionalInformation" : "Tenga en cuenta...",
+			"legislationURL" : "www.rit.com/normatividad.pdf",
+			"entity" : "hacienda",
+			"service_points" : ["supercade_cad", "supercade_movilidad", "direccion_impuestos"]
+		}, {
+			"id" : "traspaso",
+			"name" : "traspaso vehiculo",
+			"descripcion" : "El traspaso de vehiculo...",
+			"isOnline" : false,
+			"cost" : 106900,
+			"additionalInformation" : "Tenga en cuenta...",
+			"legislationURL" : "www.movilidad.com/normatividad.pdf",
+			"entity" : "movilidad",
+			"service_points" : ["supercade_movilidad", "sim_siete_de_agosto"]
+		}, {
+			"id" : "registro_civil",
+			"name" : "Copia de Registro Civil",
+			"descripcion" : "La copia del registro civil...",
+			"isOnline" : false,
+			"cost" : "1 SMLV",
+			"additionalInformation" : "Tenga en cuenta...",
+			"legislationURL" : "www.registraduria.com/normatividad.pdf",
+			"entity" : "registraduria",
+			"service_points" : ["registraduria_chapinero"]
+		}
+	],
+	"entities" : [{
+			"id" : "dian",
+			"long_name" : "Dirección de Impuestos y Aduanas Nacionales",
+			"short_name" : "DIAN",
+			"initial" : "DIAN",
+			"phone" : "123456",
+			"homepage" : "www.dian.gov.co",
+			"processes" : ["rut"],
+			"servicePoints" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+		}, {
+			"id" : "hacienda",
+			"long_name" : "Secretaría de Hacienda Distrital",
+			"short_name" : "Hacienda",
+			"phone" : "123456",
+			"homepage" : "www.hacienda.gov.co",
+			"processes" : ["rit"],
+			"servicePoints" : ["supercade_cad", "supercade_movilidad", "direccion_impuestos"]
+		}, {
+			"id" : "movilidad",
+			"name" : "",
+			"long_name" : "Secretaría de Movilidad",
+			"short_name" : "movilidad",
+			"phone" : "123456",
+			"homepage" : "www.movilidad.gov.co",
+			"processes" : ["traspaso"],
+			"servicePoints" : ["supercade_movilidad", "sim_siete_de_agosto"]
+		}, {
+			"id" : "registraduria",
+			"long_name" : "Registraduría Nacional del Estado Civil",
+			"short_name" : "Registraduria Nacional",
+			"phone" : "123456",
+			"homepage" : "www.registraduria.gov.co",
+			"processes" : ["registro_civil"],
+			"servicePoints" : ["registraduria_chapinero"]
+		}
+	],
+	"servicePoints" : [{
+			"id" : "supercade_cad",
+			"name" : "SuperCADE CAD",
+			"address" : "Calle 26 con Cra 30",
+			"phone" : "123456",
+			"schedule" : "L-V 8:00 AM a 5:00 PM",
+			"localization" : {
+				"latitude" : 1,
+				"longitude" : 1
+			},
+			"email" : "mail@supercade.gov.co",
+			"homepage" : "www.supercade.com",
+			"processes" : ["rut", "rit"]
+		}, {
+			"id" : "supercade_movilidad",
+			"name" : "SuperCADE Movilidad",
+			"address" : "Calle 13 con Cra 38",
+			"phone" : "123456",
+			"schedule" : "L-V 8:00 AM a 5:00 PM",
+			"localization" : {
+				"latitude" : 1,
+				"longitude" : 1
+			},
+			"email" : "mail@supercade.gov.co",
+			"homepage" : "www.supercade.com",
+			"processes" : ["rut", "rit", "traspaso"]
+		}, {
+			"id" : "sim_siete_de_agosto",
+			"name" : "SIM Siete de Agosto",
+			"address" : "Calle 65 con Cra 23",
+			"phone" : "123456",
+			"schedule" : "L-V 8:00 AM a 5:00 PM",
+			"localization" : {
+				"latitude" : 1,
+				"longitude" : 1
+			},
+			"email" : "mail@sim.gov.co",
+			"homepage" : "www.sim.com",
+			"processes" : ["traspaso"]
+		}, {
+			"id" : "dian_lago",
+			"name" : "DIAN Oficina El Lago",
+			"address" : "Calle 74 con Cra 15",
+			"phone" : "123456",
+			"schedule" : "L-V 8:00 AM a 5:00 PM",
+			"localization" : {
+				"latitude" : 1,
+				"longitude" : 1
+			},
+			"email" : "mail@dian.gov.co",
+			"homepage" : "www.dian.com",
+			"processes" : ["rut"]
+		}, {
+			"id" : "direccion_impuestos",
+			"name" : "SEDE Direccion Distrital de Impuestos de Bogota",
+			"address" : "Carrera 68 con calle 17",
+			"phone" : "123456",
+			"schedule" : "L-V 8:00 AM a 5:00 PM",
+			"localization" : {
+				"latitude" : 1,
+				"longitude" : 1
+			},
+			"email" : "mail@hacienda.gov.co",
+			"homepage" : "www.hacienda.com",
+			"processes" : ["rit"]
+		}, {
+			"id" : "registraduria_chapinero",
+			"name" : "Registraduria Auxiliar de Chapinero",
+			"address" : "Carrera 7 con calle 45",
+			"phone" : "123456",
+			"schedule" : "L-V 8:00 AM a 5:00 PM",
+			"localization" : {
+				"latitude" : 1,
+				"longitude" : 1
+			},
+			"email" : "mail@registraduria.gov.co",
+			"homepage" : "www.registraduria.com",
+			"processes" : ["registro_civil"]
+		}
+	]
+}
