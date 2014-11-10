@@ -1,8 +1,8 @@
-﻿{
+{
 	"processes" : [{
 			"id" : "rut",
 			"name" : "RUT",
-			"description" : "El Registro Unico Tributario ...",
+			"description" : "El Registro Unico Tributario ..",
 			"isOnline" : true,
 			"url" : "www.rut.com/expedir",
 			"cost" : 0,
