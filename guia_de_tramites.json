@@ -23,7 +23,7 @@
 		}, {
 			"id" : "traspaso",
 			"name" : "traspaso vehiculo",
-			"descripcion" : "El traspaso de vehiculo...",
+			"description" : "El traspaso de vehiculo...",
 			"isOnline" : false,
 			"cost" : 106900,
 			"additionalInformation" : "Tenga en cuenta...",
@@ -33,7 +33,7 @@
 		}, {
 			"id" : "registro_civil",
 			"name" : "Copia de Registro Civil",
-			"descripcion" : "La copia del registro civil...",
+			"description" : "La copia del registro civil...",
 			"isOnline" : false,
 			"cost" : "1 SMLV",
 			"additionalInformation" : "Tenga en cuenta...",
@@ -44,7 +44,7 @@
 		{
 			"id" : "registro_nacimiento",
 			"name" : "Registro de Nacimiento",
-			"descripcion" : "La copia del registro de nacimiento...",
+			"description" : "La copia del registro de nacimiento...",
 			"isOnline" : false,
 			"cost" : "0",
 			"additionalInformation" : "Tenga en cuenta...",
