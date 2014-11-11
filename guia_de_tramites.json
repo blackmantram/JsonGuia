@@ -40,6 +40,17 @@
 			"legislationURL" : "www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
 			"service_points" : ["registraduria_chapinero"]
+		},
+		{
+			"id" : "registro_nacimiento",
+			"name" : "Registro de Nacimiento",
+			"descripcion" : "La copia del registro de nacimiento...",
+			"isOnline" : false,
+			"cost" : "0",
+			"additionalInformation" : "Tenga en cuenta...",
+			"legislationURL" : "www.registraduria.com/normatividad.pdf",
+			"entity" : "registraduria",
+			"service_points" : ["registraduria_chapinero"]
 		}
 	],
 	"entities" : [{
