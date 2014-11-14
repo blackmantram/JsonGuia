@@ -4,10 +4,10 @@
 			"name" : "RUT",
 			"description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.",
 			"isOnline" : true,
-			"url" : "www.rut.com/expedir",
+			"url" : "http://www.rut.com/expedir",
 			"cost" : 0,
 			"additionalInformation" : "Tenga en cuenta...",
-			"legislationURL" : "www.rut.com/normatividad.pdf",
+			"legislationURL" : "http://www.rut.com/normatividad.pdf",
 			"entity" : "DIAN",
 			"service_points" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
 		},{
@@ -17,7 +17,7 @@
 			"isOnline" : false,
 			"cost" : 0,
 			"additionalInformation" : "Tenga en cuenta...",
-			"legislationURL" : "www.rit.com/normatividad.pdf",
+			"legislationURL" : "http://www.rit.com/normatividad.pdf",
 			"entity" : "hacienda",
 			"service_points" : ["supercade_cad", "supercade_movilidad", "direccion_impuestos"]
 		}, {
@@ -25,10 +25,10 @@
 			"name" : "traspaso vehiculo",
 			"description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.",
 			"isOnline" : true,
-			"url" : "www.traspaso.com/tramite",
+			"url" : "http://www.traspaso.com/tramite",
 			"cost" : 106900,
 			"additionalInformation" : "Tenga en cuenta...",
-			"legislationURL" : "www.movilidad.com/normatividad.pdf",
+			"legislationURL" : "http://www.movilidad.com/normatividad.pdf",
 			"entity" : "movilidad",
 			"service_points" : ["supercade_movilidad", "sim_siete_de_agosto"]
 		}, {
@@ -38,7 +38,7 @@
 			"isOnline" : false,
 			"cost" : "1 SMLV",
 			"additionalInformation" : "Tenga en cuenta...",
-			"legislationURL" : "www.registraduria.com/normatividad.pdf",
+			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
 			"service_points" : ["registraduria_chapinero"]
 		},
@@ -47,10 +47,10 @@
 			"name" : "Registro de Nacimiento",
 			"description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.",
 			"isOnline" : true,
-			"url" : "www.registraduria.com/registro",
+			"url" : "http://www.registraduria.com/registro",
 			"cost" : "0",
 			"additionalInformation" : "Tenga en cuenta...",
-			"legislationURL" : "www.registraduria.com/normatividad.pdf",
+			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
 			"service_points" : ["registraduria_chapinero"]
 		}
