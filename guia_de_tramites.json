@@ -10,7 +10,8 @@
 			"legislationURL" : "http://www.rut.com/normatividad.pdf",
 			"entity" : "DIAN",
 			"service_points" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
-		},{
+		},
+		{
 			"id" : "rit",
 			"name" : "RIT",
 			"description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.",
@@ -20,7 +21,8 @@
 			"legislationURL" : "http://www.rit.com/normatividad.pdf",
 			"entity" : "hacienda",
 			"service_points" : ["supercade_cad", "supercade_movilidad", "direccion_impuestos"]
-		}, {
+		}, 
+		{
 			"id" : "traspaso",
 			"name" : "traspaso vehiculo",
 			"description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.",
@@ -31,7 +33,8 @@
 			"legislationURL" : "http://www.movilidad.com/normatividad.pdf",
 			"entity" : "movilidad",
 			"service_points" : ["supercade_movilidad", "sim_siete_de_agosto"]
-		}, {
+		}, 
+		{
 			"id" : "registro_civil",
 			"name" : "Copia de Registro Civil",
 			"description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.",
@@ -52,9 +55,69 @@
 			"additionalInformation" : "Tenga en cuenta...",
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
+			"service_points" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+		},
+		{
+			"id" : "rut",
+			"name" : "RUT",
+			"description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.",
+			"isOnline" : true,
+			"url" : "http://www.rut.com/expedir",
+			"cost" : 0,
+			"additionalInformation" : "Tenga en cuenta...",
+			"legislationURL" : "http://www.rut.com/normatividad.pdf",
+			"entity" : "DIAN",
+			"service_points" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+		},
+		{
+			"id" : "rit",
+			"name" : "RIT",
+			"description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.",
+			"isOnline" : false,
+			"cost" : 0,
+			"additionalInformation" : "Tenga en cuenta...",
+			"legislationURL" : "http://www.rit.com/normatividad.pdf",
+			"entity" : "hacienda",
+			"service_points" : ["supercade_cad", "supercade_movilidad", "direccion_impuestos"]
+		}, 
+		{
+			"id" : "traspaso",
+			"name" : "traspaso vehiculo",
+			"description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.",
+			"isOnline" : true,
+			"url" : "http://www.traspaso.com/tramite",
+			"cost" : 106900,
+			"additionalInformation" : "Tenga en cuenta...",
+			"legislationURL" : "http://www.movilidad.com/normatividad.pdf",
+			"entity" : "movilidad",
+			"service_points" : ["supercade_movilidad", "sim_siete_de_agosto"]
+		}, 
+		{
+			"id" : "registro_civil",
+			"name" : "Copia de Registro Civil",
+			"description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.",
+			"isOnline" : false,
+			"cost" : "1 SMLV",
+			"additionalInformation" : "Tenga en cuenta...",
+			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
+			"entity" : "registraduria",
 			"service_points" : ["registraduria_chapinero"]
 		},
 		{
+			"id" : "registro_nacimiento",
+			"name" : "Registro de Nacimiento",
+			"description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.",
+			"isOnline" : true,
+			"url" : "http://www.registraduria.com/registro",
+			"cost" : "0",
+			"additionalInformation" : "Tenga en cuenta...",
+			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
+			"entity" : "registraduria",
+			"service_points" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+		}
+	],
+	"entities" : [
+		{
 			"id" : "dian",
 			"long_name" : "Dirección de Impuestos y Aduanas Nacionales",
 			"short_name" : "DIAN",
@@ -72,7 +135,7 @@
 			"homepage" : "www.hacienda.gov.co",
 			"processes" : ["rit"],
 			"servicePoints" : ["supercade_cad", "supercade_movilidad", "direccion_impuestos"]
-		}, 
+		},
 		{
 			"id" : "movilidad",
 			"name" : "",
@@ -93,43 +156,8 @@
 			"servicePoints" : ["registraduria_chapinero"]
 		}
 	],
-	"entities" : [{
-			"id" : "dian",
-			"long_name" : "Dirección de Impuestos y Aduanas Nacionales",
-			"short_name" : "DIAN",
-			"initial" : "DIAN",
-			"phone" : "123456",
-			"homepage" : "www.dian.gov.co",
-			"processes" : ["rut"],
-			"servicePoints" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
-		}, {
-			"id" : "hacienda",
-			"long_name" : "Secretaría de Hacienda Distrital",
-			"short_name" : "Hacienda",
-			"phone" : "123456",
-			"homepage" : "www.hacienda.gov.co",
-			"processes" : ["rit"],
-			"servicePoints" : ["supercade_cad", "supercade_movilidad", "direccion_impuestos"]
-		}, {
-			"id" : "movilidad",
-			"name" : "",
-			"long_name" : "Secretaría de Movilidad",
-			"short_name" : "movilidad",
-			"phone" : "123456",
-			"homepage" : "www.movilidad.gov.co",
-			"processes" : ["traspaso"],
-			"servicePoints" : ["supercade_movilidad", "sim_siete_de_agosto"]
-		}, {
-			"id" : "registraduria",
-			"long_name" : "Registraduría Nacional del Estado Civil",
-			"short_name" : "Registraduria Nacional",
-			"phone" : "123456",
-			"homepage" : "www.registraduria.gov.co",
-			"processes" : ["registro_civil"],
-			"servicePoints" : ["registraduria_chapinero"]
-		}
-	],
-	"servicePoints" : [{
+	"servicePoints" : [
+		{
 			"id" : "supercade_cad",
 			"name" : "SuperCADE CAD",
 			"address" : "Calle 26 con Cra 30",
@@ -142,7 +170,8 @@
 			"email" : "mail@supercade.gov.co",
 			"homepage" : "www.supercade.com",
 			"processes" : ["rut", "rit"]
-		}, {
+		}, 
+		{
 			"id" : "supercade_movilidad",
 			"name" : "SuperCADE Movilidad",
 			"address" : "Calle 13 con Cra 38",
@@ -155,7 +184,8 @@
 			"email" : "mail@supercade.gov.co",
 			"homepage" : "www.supercade.com",
 			"processes" : ["rut", "rit", "traspaso"]
-		}, {
+		}, 
+		{
 			"id" : "sim_siete_de_agosto",
 			"name" : "SIM Siete de Agosto",
 			"address" : "Calle 65 con Cra 23",
@@ -168,7 +198,8 @@
 			"email" : "mail@sim.gov.co",
 			"homepage" : "www.sim.com",
 			"processes" : ["traspaso"]
-		}, {
+		}, 
+		{
 			"id" : "dian_lago",
 			"name" : "DIAN Oficina El Lago",
 			"address" : "Calle 74 con Cra 15",
@@ -181,7 +212,8 @@
 			"email" : "mail@dian.gov.co",
 			"homepage" : "www.dian.com",
 			"processes" : ["rut"]
-		}, {
+		}, 
+		{
 			"id" : "direccion_impuestos",
 			"name" : "SEDE Direccion Distrital de Impuestos de Bogota",
 			"address" : "Carrera 68 con calle 17",
@@ -194,7 +226,8 @@
 			"email" : "mail@hacienda.gov.co",
 			"homepage" : "www.hacienda.com",
 			"processes" : ["rit"]
-		}, {
+		},
+		{
 			"id" : "registraduria_chapinero",
 			"name" : "Registraduria Auxiliar de Chapinero",
 			"address" : "Carrera 7 con calle 45",
