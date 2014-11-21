@@ -217,6 +217,20 @@
 			"processes" : ["rut", "rit"]
 		}, 
 		{
+			"id" : "supercade_20dejulio",
+			"name" : "SuperCADE CAD",
+			"address" : "Calle 12 con Cra 10",
+			"phone" : "3333444",
+			"schedule" : "L-V 9:00 AM a 1:00 PM",
+			"localization" : {
+				"latitude" : 4.569173,
+				"longitude" : -74.097237
+			},
+			"email" : "20dejulio@supercade.gov.co",
+			"homepage" : "www.supercade20.com",
+			"processes" : ["rut", "rit"]
+		}, 
+		{
 			"id" : "supercade_movilidad",
 			"name" : "SuperCADE Movilidad",
 			"address" : "Calle 13 con Cra 38",
