@@ -243,6 +243,56 @@
 			"servicePoints" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
 		}, 
 		{
+			"id" : "otradian",
+			"long_name" : "Dirección de Impuestos y Aduanas Nacionales Otra",
+			"short_name" : "DIANOtro",
+			"initial" : "DIANotro",
+			"phone" : "123456",
+			"homepage" : "www.dian.gov.co",
+			"processes" : ["rut"],
+			"servicePoints" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+		}, 
+			{
+			"id" : "otradian",
+			"long_name" : "Dirección de Impuestos y Aduanas Nacionales Otra1",
+			"short_name" : "DIANOtro",
+			"initial" : "DIANotro",
+			"phone" : "123456",
+			"homepage" : "www.dian.gov.co",
+			"processes" : ["rut"],
+			"servicePoints" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+		}, 
+			{
+			"id" : "otradian2",
+			"long_name" : "Dirección de Impuestos y Aduanas Nacionales Otra2",
+			"short_name" : "DIANOtro",
+			"initial" : "DIANotro",
+			"phone" : "123456",
+			"homepage" : "www.dian.gov.co",
+			"processes" : ["rut"],
+			"servicePoints" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+		}, 
+			{
+			"id" : "otradian3",
+			"long_name" : "Dirección de Impuestos y Aduanas Nacionales Otra3",
+			"short_name" : "DIANOtro",
+			"initial" : "DIANotro",
+			"phone" : "123456",
+			"homepage" : "www.dian.gov.co",
+			"processes" : ["rut"],
+			"servicePoints" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+		}, 
+			{
+			"id" : "otradian4",
+			"long_name" : "Dirección de Impuestos y Aduanas Nacionales Otra4",
+			"short_name" : "DIANOtro",
+			"initial" : "DIANotro",
+			"phone" : "123456",
+			"homepage" : "www.dian.gov.co",
+			"processes" : ["rut"],
+			"servicePoints" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+		}, 
+		{
 			"id" : "hacienda",
 			"long_name" : "Secretaría de Hacienda Distrital",
 			"short_name" : "Hacienda",
