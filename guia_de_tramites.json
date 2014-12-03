@@ -288,10 +288,8 @@
 			"address" : "Calle 26 con Cra 30 -99",
 			"phone" : "12345666",
 			"schedule" : "L-V 8:00 AM a 5:00 PM",
-			"localization" : {
-				"latitude" : 1,
-				"longitude" : 1
-			},
+			"localization_lat" : "1",
+			"localization_lon" : "1",
 			"email" : "mail@supercade.gov.co.com",
 			"homepage" : "http://www.supercade.com",
 			"processes" : ["rut", "rit"]
@@ -302,10 +300,8 @@
 			"address" : "Calle 12 con Cra 10",
 			"phone" : "3333444",
 			"schedule" : "L-V 9:00 AM a 1:00 PM",
-			"localization" : {
-				"latitude" : 4.569173,
-				"longitude" : -74.097237
-			},
+			"localization_lat" : "4.569173",
+			"localization_lon" : "-74.097237",
 			"email" : "20dejulio@supercade.gov.co",
 			"homepage" : "http://www.supercade20.com",
 			"processes" : ["rut", "rit"]
@@ -316,10 +312,8 @@
 			"address" : "Calle 13 con Cra 38",
 			"phone" : "123456",
 			"schedule" : "L-V 8:00 AM a 5:00 PM",
-			"localization" : {
-				"latitude" : 1,
-				"longitude" : 1
-			},
+			"localization_lat" : "1",
+			"localization_lon" : "1",
 			"email" : "mail@supercade.gov.co",
 			"homepage" : "http://www.supercade.com",
 			"processes" : ["rut", "rit", "traspaso"]
@@ -330,10 +324,8 @@
 			"address" : "Calle 65 con Cra 23",
 			"phone" : "123456",
 			"schedule" : "L-V 8:00 AM a 5:00 PM",
-			"localization" : {
-				"latitude" : 1,
-				"longitude" : 1
-			},
+			"localization_lat" : "1",
+			"localization_lon" : "1",
 			"email" : "mail@sim.gov.co",
 			"homepage" : "http://www.sim.com",
 			"processes" : ["traspaso"]
@@ -344,10 +336,8 @@
 			"address" : "Calle 74 con Cra 15",
 			"phone" : "123456",
 			"schedule" : "L-V 8:00 AM a 5:00 PM",
-			"localization" : {
-				"latitude" : 1,
-				"longitude" : 1
-			},
+			"localization_lat" : "1",
+			"localization_lon" : "1",
 			"email" : "mail@dian.gov.co",
 			"homepage" : "http://www.dian.com",
 			"processes" : ["rut"]
@@ -358,10 +348,8 @@
 			"address" : "Carrera 68 con calle 17",
 			"phone" : "123456",
 			"schedule" : "L-V 8:00 AM a 5:00 PM",
-			"localization" : {
-				"latitude" : 1,
-				"longitude" : 1
-			},
+			"localization_lat" : "1",
+			"localization_lon" : "1",
 			"email" : "mail@hacienda.gov.co",
 			"homepage" : "http://www.hacienda.com",
 			"processes" : ["rit"]
@@ -372,10 +360,8 @@
 			"address" : "Carrera 7 con calle 45",
 			"phone" : "123456",
 			"schedule" : "L-V 8:00 AM a 5:00 PM",
-			"localization" : {
-				"latitude" : 1,
-				"longitude" : 1
-			},
+			"localization_lat" : "1",
+			"localization_lon" : "1",
 			"email" : "mail@registraduria.gov.co",
 			"homepage" : "http://www.registraduria.com",
 			"processes" : ["registro_civil"]
