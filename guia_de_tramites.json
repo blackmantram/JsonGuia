@@ -283,15 +283,15 @@
 	"servicePoints" : [
 		{
 			"id" : "supercade_cad",
-			"name" : "SuperCADE CAD",
-			"address" : "Calle 26 con Cra 30",
-			"phone" : "123456",
+			"name" : "SuperCADE CAD SUPER",
+			"address" : "Calle 26 con Cra 30 -99",
+			"phone" : "12345666",
 			"schedule" : "L-V 8:00 AM a 5:00 PM",
 			"localization" : {
 				"latitude" : 1,
 				"longitude" : 1
 			},
-			"email" : "mail@supercade.gov.co",
+			"email" : "mail@supercade.gov.co.com",
 			"homepage" : "http://www.supercade.com",
 			"processes" : ["rut", "rit"]
 		}, 
