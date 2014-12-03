@@ -246,6 +246,7 @@
 			"id" : "hacienda",
 			"long_name" : "Secretaría de Hacienda Distrital",
 			"short_name" : "Hacienda",
+			"initial" : "HCD",
 			"phone" : "123456",
 			"homepage" : "http://www.hacienda.gov.co",
 			"processes" : ["rit"],
