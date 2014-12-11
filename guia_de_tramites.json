@@ -293,8 +293,8 @@
 			"address" : "Calle 26 con Cra 30 -99",
 			"phone" : "12345666",
 			"schedule" : "L-V 8:00 AM a 5:00 PM",
-			"localization_lat" : "4.633814",
-			"localization_lon" : "-74.065685",
+			"localization_lat" : "4.626438",
+			"localization_lon" : "-74.106583",
 			"email" : "mail@supercade.gov.co.com",
 			"homepage" : "http://www.supercade.com",
 			"processes" : ["rut", "rit"]
