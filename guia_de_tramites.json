@@ -241,7 +241,7 @@
 			"phone" : "123456",
 			"homepage" : "http://www.dian.gov.co",
 			"processes" : "rut",
-			"servicePoints" : "supercade_cad,supercade_movilidad", "dian_lago"]
+			"servicePoints" : "supercade_cad,supercade_movilidad,dian_lago"
 		}, 
 		{
 			"id" : "hacienda",
