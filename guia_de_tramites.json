@@ -12,7 +12,7 @@
 			"legislationURL" : "http://www.rut.com/normatividad.pdf",
 			"entity" : "DIAN",
 			"responseTime" : "1 semana",
-			"pointsOfService" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+			"pointsOfService" : "supercade_cad,supercade_movilidad,dian_lago"
 		},
 		{
 			"id" : "rit",
@@ -26,7 +26,7 @@
 			"legislationURL" : "http://www.rit.com/normatividad.pdf",
 			"entity" : "hacienda",
 			"responseTime" : "1 semana",
-			"pointsOfService" : ["supercade_cad", "supercade_movilidad", "direccion_impuestos"]
+			"pointsOfService" : "supercade_cad,supercade_movilidad,direccion_impuestos"
 		}, 
 		{
 			"id" : "traspaso",
@@ -41,7 +41,7 @@
 			"legislationURL" : "http://www.movilidad.com/normatividad.pdf",
 			"entity" : "movilidad",
 			"responseTime" : "1 semana",
-			"pointsOfService" : ["supercade_movilidad", "sim_siete_de_agosto"]
+			"pointsOfService" : "supercade_movilidad,sim_siete_de_agosto"
 		}, 
 		{
 			"id" : "registro_civil",
@@ -55,7 +55,7 @@
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
 			"responseTime" : "1 semana",
-			"pointsOfService" : ["registraduria_chapinero"]
+			"pointsOfService" : "registraduria_chapinero"
 		},
 		{
 			"id" : "registro_nacimiento",
@@ -70,7 +70,7 @@
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
 			"responseTime" : "1 semana",
-			"pointsOfService" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+			"pointsOfService" : "supercade_cad,supercade_movilidad,dian_lago"
 		},
 		{
 			"id" : "Otrorut",
@@ -85,7 +85,7 @@
 			"legislationURL" : "http://www.rut.com/normatividad.pdf",
 			"entity" : "DIAN",
 			"responseTime" : "1 semana",
-			"pointsOfService" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+			"pointsOfService" : "supercade_cad,supercade_movilidad,dian_lago"
 		},
 		{
 			"id" : "otrorit",
@@ -99,7 +99,7 @@
 			"legislationURL" : "http://www.rit.com/normatividad.pdf",
 			"entity" : "hacienda",
 			"responseTime" : "1 semana",
-			"pointsOfService" : ["supercade_cad", "supercade_movilidad", "direccion_impuestos"]
+			"pointsOfService" : "supercade_cad,supercade_movilidad,direccion_impuestos"
 		}, 
 		{
 			"id" : "otrotraspaso",
@@ -114,7 +114,7 @@
 			"legislationURL" : "http://www.movilidad.com/normatividad.pdf",
 			"entity" : "movilidad",
 			"responseTime" : "1 semana",
-			"pointsOfService" : ["supercade_movilidad", "sim_siete_de_agosto"]
+			"pointsOfService" : "supercade_movilidad,sim_siete_de_agosto"
 		}, 
 		{
 			"id" : "Otroregistro_civil",
@@ -128,7 +128,7 @@
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
 			"responseTime" : "1 semana",
-			"pointsOfService" : ["registraduria_chapinero"]
+			"pointsOfService" : "registraduria_chapinero"
 		},
 		{
 			"id" : "Otro1registro_nacimiento",
@@ -143,7 +143,7 @@
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
 			"responseTime" : "1 semana",
-			"pointsOfService" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+			"pointsOfService" : "supercade_cad,supercade_movilidad,dian_lago"
 		},
 		{
 			"id" : "Otro2registro_nacimiento",
@@ -158,7 +158,7 @@
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
 			"responseTime" : "1 semana",
-			"pointsOfService" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+			"pointsOfService" : "supercade_cad,supercade_movilidad,dian_lago"
 		},{
 			"id" : "Otro3registro_nacimiento",
 			"name" : "Otro3Registro de Nacimiento",
@@ -172,7 +172,7 @@
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
 			"responseTime" : "1 semana",
-			"pointsOfService" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+			"pointsOfService" : "supercade_cad,supercade_movilidad,dian_lago"
 		},{
 			"id" : "Otro4registro_nacimiento",
 			"name" : "Otro4Registro de Nacimiento",
@@ -186,7 +186,7 @@
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
 			"responseTime" : "1 semana",
-			"pointsOfService" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+			"pointsOfService" : "supercade_cad,supercade_movilidad,dian_lago"
 		},{
 			"id" : "Otro5registro_nacimiento",
 			"name" : "Otro5Registro de Nacimiento",
@@ -200,7 +200,7 @@
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
 			"responseTime" : "1 semana",
-			"pointsOfService" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+			"pointsOfService" : "supercade_cad,supercade_movilidad,dian_lago"
 		},{
 			"id" : "Otro6registro_nacimiento",
 			"name" : "Otro6Registro de Nacimiento",
@@ -214,7 +214,7 @@
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
 			"responseTime" : "1 semana",
-			"pointsOfService" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+			"pointsOfService" : "supercade_cad,supercade_movilidad,dian_lago"
 		},{
 			"id" : "Otro7registro_nacimiento",
 			"name" : "Otro7Registro de Nacimiento",
@@ -228,7 +228,7 @@
 			"legislationURL" : "http://www.registraduria.com/normatividad.pdf",
 			"entity" : "registraduria",
 			"responseTime" : "1 semana",
-			"pointsOfService" : ["supercade_cad", "supercade_movilidad", "dian_lago"]
+			"pointsOfService" : "supercade_cad,supercade_movilidad,dian_lago"
 		}
 	],
 	"entities" : [
