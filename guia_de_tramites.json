@@ -297,7 +297,7 @@
 			"localization_lon" : "-74.106583",
 			"email" : "mail@supercade.gov.co.com",
 			"homepage" : "http://www.supercade.com",
-			"processes" : ["rut", "rit"]
+			"processes" : "rut,rit"
 		}, 
 		{
 			"id" : "supercade_20dejulio",
@@ -309,7 +309,7 @@
 			"localization_lon" : "-74.097237",
 			"email" : "20dejulio@supercade.gov.co",
 			"homepage" : "http://www.supercade20.com",
-			"processes" : ["rut", "rit"]
+			"processes" : "rut,rit"
 		}, 
 		{
 			"id" : "supercade_movilidad",
@@ -321,7 +321,7 @@
 			"localization_lon" : "1",
 			"email" : "mail@supercade.gov.co",
 			"homepage" : "http://www.supercade.com",
-			"processes" : ["rut", "rit", "traspaso"]
+			"processes" : "rut,rit,traspaso"
 		}, 
 		{
 			"id" : "sim_siete_de_agosto",
@@ -333,7 +333,7 @@
 			"localization_lon" : "1",
 			"email" : "mail@sim.gov.co",
 			"homepage" : "http://www.sim.com",
-			"processes" : ["traspaso"]
+			"processes" : "traspaso"
 		}, 
 		{
 			"id" : "dian_lago",
@@ -345,7 +345,7 @@
 			"localization_lon" : "1",
 			"email" : "mail@dian.gov.co",
 			"homepage" : "http://www.dian.com",
-			"processes" : ["rut"]
+			"processes" : "rut"
 		}, 
 		{
 			"id" : "direccion_impuestos",
@@ -357,7 +357,7 @@
 			"localization_lon" : "1",
 			"email" : "mail@hacienda.gov.co",
 			"homepage" : "http://www.hacienda.com",
-			"processes" : ["rit"]
+			"processes" : "rit"
 		},
 		{
 			"id" : "registraduria_chapinero",
@@ -369,7 +369,7 @@
 			"localization_lon" : "1",
 			"email" : "mail@registraduria.gov.co",
 			"homepage" : "http://www.registraduria.com",
-			"processes" : ["registro_civil"]
+			"processes" : "registro_civil"
 		}
 	]
 }
