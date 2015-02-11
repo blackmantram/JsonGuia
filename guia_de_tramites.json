@@ -236,8 +236,8 @@
 			"short_name" : "Hacienda",
 			"initial" : "HCD",
 			"description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. ",
-			"phone" : "123456",
-			"homepage" : "http://www.hacienda.gov.co",
+			"phone" : "",
+			"homepage" : "",
 			"processes" : "rit",
 			"pointsOfService" : "supercade_cad,supercade_movilidad,direccion_impuestos"
 		},
@@ -317,12 +317,12 @@
 			"id" : "sim_siete_de_agosto",
 			"name" : "SIM Siete de Agosto",
 			"address" : "Calle 65 con Cra 23",
-			"phone" : "123456",
+			"phone" : "",
 			"schedule" : "L-V 8:00 AM a 5:00 PM",
-			"localization_lat" : "4.657876",
-			"localization_lon" : "-74.068682",
-			"email" : "mail@sim.gov.co",
-			"homepage" : "http://www.sim.com",
+			"localization_lat" : "",
+			"localization_lon" : "",
+			"email" : "",
+			"homepage" : "",
 			"processes" : "traspaso"
 		}, 
 		{
