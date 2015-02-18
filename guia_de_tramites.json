@@ -317,12 +317,12 @@
 			"id" : "sim_siete_de_agosto",
 			"name" : "SIM Siete de Agosto",
 			"address" : "Calle 65 con Cra 23",
-			"phone" : "",
+			"phone" : " ",
 			"schedule" : "L-V 8:00 AM a 5:00 PM",
-			"localization_lat" : "",
-			"localization_lon" : "",
-			"email" : "",
-			"homepage" : "",
+			"localization_lat" : " ",
+			"localization_lon" : " ",
+			"email" : " ",
+			"homepage" : " ",
 			"processes" : "traspaso"
 		}, 
 		{
