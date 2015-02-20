@@ -7,8 +7,8 @@
 			
 			"cost" : 0,
 			"additionalInformation" : "Se actualiza 17:15 02022015 mañana liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.",
-			"requisitesURL" : "http://www.registraduria.com/requisitos.html",
-			"legislationURL" : "http://www.rut.com/normatividad.pdf",
+			"requisitesURL" : " ",
+			"legislationURL" : " ",
 			"entity" : "dian",
 			"responseTime" : "2 Dias",
 			"pointsOfService" : "supercade_cad,supercade_movilidad,dian_lago"
@@ -225,8 +225,8 @@
 			"short_name" : "DIAN",
 			"initial" : "DIAN",
 			"description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. ",
-			"phone" : "123456",
-			"homepage" : "http://www.dian.gov.co",
+			"phone" : " ",
+			"homepage" : " ",
 			"processes" : "rut,rit",
 			"pointsOfService" : "supercade_cad,supercade_movilidad"
 		}, 
@@ -281,13 +281,13 @@
 			"id" : "supercade_cad",
 			"name" : "SuperCADE CAD SUPER",
 			"address" : "Calle 26 con Cra 30 -99",
-			"phone" : "12345666",
+			"phone" : " ",
 			"schedule" : "L-V 8:00 AM a 5:00 PM",
-			"localization_lat" : "4.626438",
-			"localization_lon" : "-74.106583",
-			"email" : "mail@supercade.gov.co.com",
-			"homepage" : "http://www.supercade.com",
-			"processes" : "rut,rit"
+			"localization_lat" : " ",
+			"localization_lon" : " ",
+			"email" : " ",
+			"homepage" : " ",
+			"processes" : " "
 		}, 
 		{
 			"id" : "supercade_20dejulio",
