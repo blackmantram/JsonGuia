@@ -339,7 +339,7 @@
 		}, 
 		{
 			"id" : "direccion_impuestos",
-			"name" : "SEDE Direccion Distrital de Impuestos de Bogota",
+			"name" : "SEDE Direccion Distrital",
 			"address" : "Carrera 68 con calle 17",
 			"phone" : "123456",
 			"schedule" : "L-V 8:00 AM a 5:00 PM",
