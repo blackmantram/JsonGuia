@@ -11,7 +11,7 @@
          "legislationURL":" ",
          "entity":"5",
          "responseTime":"2 Dias",
-         "pointsOfService":"2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+         "pointsOfService":"5,6",
          "idCategory":"130",
          "categoryName":"Otros Servicios Administrativos"
       },
@@ -290,14 +290,14 @@
          "address":"Calle 26 con Cra 30 -99",
          "phone":" ",
          "schedule":"L-V 8:00 AM a 5:00 PM",
-         "localization_lat":" ",
-         "localization_lon":" ",
+         "localization_lat":"4.569173",
+         "localization_lon":"-74.097237",
          "email":" ",
          "homepage":" ",
          "processes":"130"
       },
       {
-         "id":"supercade_20dejulio",
+         "id":"5",
          "name":"SuperCADE 20 de julio",
          "address":"Calle 12 con Cra 10",
          "phone":"3333444",
@@ -306,7 +306,7 @@
          "localization_lon":"-74.097237",
          "email":"20dejulio@supercade.gov.co",
          "homepage":"http://www.supercade20.com",
-         "processes":"rut,rit"
+         "processes":"130"
       },
       {
          "id":"supercade_movilidad",
